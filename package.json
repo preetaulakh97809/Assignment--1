@@ -37,6 +37,7 @@
     "express": "^4.17.1",
     "mailchimp-api-v3": "^1.13.0",
     "mocha": "^6.1.4",
+    "package.json": "^2.0.1",
     "request": "^2.88.0"
   },
   "devDependencies": {
